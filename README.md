@@ -1,8 +1,8 @@
 # ZombieGame
-ZombieGame is a first-person shooter zobmie game.  
-The objective of the game is to survive by killing as many zombies as possible for 400 seconds.  
+ZombieGame is a **first-person shooter** zobmie game.  
+The objective of the game is to **survive by killing as many zombies as possible for 400 seconds.**  
 Powerful guns spawn at a random location on a map as a player kill zombies.  
-Play the game here!(https://jieung.itch.io/zombiesurvival)
+Play the game [here!](https://jieung.itch.io/zombiesurvival)
 
 ## Technology  
 Language Used: **C#**
