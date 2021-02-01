@@ -18,5 +18,5 @@ Keyboard Controls are listed on the above website.
 ## Demo
 ![Simple demo](ZombieSurvival.gif)
 
-## Credit
+## Credential
 "Dust2" by Opitax is licensed under Creative Commons Attribution. [https://skfb.ly/YW87](https://skfb.ly/YW87) To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
